@@ -17,4 +17,4 @@ function greeter(person : Person) {
 let user = new Student("Jane", "M.", "User");
 
 console.log(user)
-console.log(greeter(user))
+console.log(greeter(user))   
